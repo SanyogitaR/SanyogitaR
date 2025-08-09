@@ -57,7 +57,7 @@
 <a href="www.linkedin.com/in/sanyogita-rajput"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/SanyogitaR"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://leetcode.com/u/3CmTZ8ovfS/"><img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-<a href="https://codeforces.com/profile/your-id"><img src="https://img.shields.io/badge/-Codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+<a href="https://codeforces.com/profile/sanyogitarajput46"><img src="https://img.shields.io/badge/-Codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 <a href="https://www.geeksforgeeks.org/user/sanyogitarajput"><img src="https://img.shields.io/badge/-GeeksforGeeks-%230F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
 <a href="https://www.behance.net/sanyogitarajput9"><img src="https://img.shields.io/badge/-Behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white"></a>
 <a href="sanyogitarajput46@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
