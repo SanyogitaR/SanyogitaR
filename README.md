@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets/banner.gif" alt="Banner" width="100%">
+  <img src="assets/banner_glow.gif" alt="Banner" width="100%">
 </p>
 
 <!-- Typing Animation -->
