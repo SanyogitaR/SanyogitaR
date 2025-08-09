@@ -1,6 +1,16 @@
+<!-- Neon Moving Border -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/neon-border.svg" width="100%" alt="Neon Border Animation">
+</p>
+
 <!-- Banner -->
 <p align="center">
   <img src="assets/banner_glow.gif" alt="Banner" width="100%">
+</p>
+
+<!-- Floating Bubbles Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/bubbles.svg" width="100%" alt="Bubbles Animation">
 </p>
 
 <!-- Typing Animation -->
