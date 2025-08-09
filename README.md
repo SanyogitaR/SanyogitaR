@@ -1,6 +1,6 @@
 <!-- Neon Moving Border -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/neon-border.svg" width="100%" alt="Neon Border Animation">
+  <img src="https://raw.githubusercontent.com/SanyogitaR/SanyogitaR/main/assets/neon-border.svg" width="100%" alt="Neon Border Animation">
 </p>
 
 <!-- Banner -->
@@ -10,7 +10,7 @@
 
 <!-- Floating Bubbles Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourRepo/main/assets/bubbles.svg" width="100%" alt="Bubbles Animation">
+  <img src="https://raw.githubusercontent.com/SanyogitaR/SanyogitaR/main/assets/bubbles.svg" width="100%" alt="Bubbles Animation">
 </p>
 
 <!-- Typing Animation -->
@@ -55,7 +55,7 @@
 ## 🌐 Connect & Compete
 <p align="center">
 <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/SanyogitaR"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://leetcode.com/your-id"><img src="https://img.shields.io/badge/-LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
 <a href="https://codeforces.com/profile/your-id"><img src="https://img.shields.io/badge/-Codeforces-%231F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
 <a href="https://auth.geeksforgeeks.org/user/your-id"><img src="https://img.shields.io/badge/-GeeksforGeeks-%230F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"></a>
@@ -67,20 +67,20 @@
 ---
 
 ## 📌 Featured Projects
-- **[Cook-N-Klean Website](https://github.com/yourusername/cook-n-klean)** — Professional cleaning & healthy meal service platform.  
-- **[Pig Game in C](https://github.com/yourusername/pig-game)** — Fun dice game built in C.  
-- **[AI Chatbot for E-commerce](https://github.com/yourusername/ai-chatbot)** — Python chatbot for product recommendations.
+- **[Cook-N-Klean Website](https://github.com/SanyogitaR/cook-n-klean)** — Professional cleaning & healthy meal service platform.  
+- **[Pig Game in C](https://github.com/SanyogitaR/pig-game)** — Fun dice game built in C.  
+- **[AI Chatbot for E-commerce](https://github.com/SanyogitaR/ai-chatbot)** — Python chatbot for product recommendations.
 
 ---
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SanyogitaR&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanyogitaR&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=react-dark&bg_color=0f0f1a&color=A855F7&line=9b5de5&point=d946ef&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanyogitaR&theme=react-dark&bg_color=0f0f1a&color=A855F7&line=9b5de5&point=d946ef&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
