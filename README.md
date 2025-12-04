@@ -79,12 +79,12 @@
 ---
 
 ## 📌 Featured Projects
-- **[Cook-N-Klean Website](https://github.com/SanyogitaR/cook-n-klean)** — Professional cleaning & healthy meal service platform.  
-- **[Pig Game in C](https://github.com/SanyogitaR/pig-game)** — Fun dice game built in C.  
-- **[AI Chatbot for E-commerce](https://github.com/SanyogitaR/ai-chatbot)** — Python chatbot for product recommendations.  
-- **[Amazon Prime Video Dashboard](https://github.com/SanyogitaR/power-bi-dashboards)** — Power BI dashboard analyzing streaming data.  
+- **[Bangalore Home Price Prediction](https://github.com/SanyogitaR/Bangalore-Home-Price-Prediction)** — Machine learning model predicting house prices using Python, data preprocessing, and regression techniques.  
+- **[Customer Trends Data Analysis](https://github.com/SanyogitaR/customer-trends-data-analysis)** — End-to-end customer insights analysis using SQL, Python, and Power BI.  
+- **[KoroMado Timer](https://github.com/SanyogitaR/koroMado-timer)** — A Japanese-inspired productivity space with Pomodoro timer, tasks, notes, themes, login/signup, and Spotify integration.  
 
 ---
+
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
